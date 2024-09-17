@@ -11,6 +11,11 @@
 # production
 /build
 
+
+# sample api json formate
+/simple.json
+
+
 # misc
 .DS_Store
 .env.local
